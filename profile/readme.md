@@ -6,4 +6,6 @@ Welcome to the Github homepage of the Porous Materials Engineering & Analysis La
 
 <a href="https://scholar.google.ca/citations?user=ikQG1IkAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer"><img src="https://github.com/PMEAL/PMEAL/blob/main/_static/images/scholar_logo.png" alt="" width="30" height="30" /></a> For a list of our group's publications visit the [Google Scholar profile](https://scholar.google.ca/citations?user=ikQG1IkAAAAJ&hl=en&oi=ao) of Prof. Jeff Gostick.  
 
-<a href="https://fosstodon.org/@pmeal" target="_blank" rel="noopener noreferrer"><img src="https://github.com/mastodon/mastodon/blob/main/public/favicon.ico" alt="" width="30" height="30" /></a> Get updates on our group's latest work on [Mastodon](https://fosstodon.org/@pmeal). 
+<a href="https://fosstodon.org/@pmeal" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-mastodon"></i></a> Get updates on our group's latest work on [Mastodon](https://fosstodon.org/@pmeal). 
+
+
